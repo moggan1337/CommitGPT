@@ -796,3 +796,44 @@ SOFTWARE.
 **If CommitGPT helps you, give it a ⭐!**
 
 </div>
+
+## 📈 Project Statistics
+
+- **Total Files**: 30+
+- **TypeScript Files**: 20
+- **Lines of Code**: 7,600+
+- **Documentation**: 800+ lines
+- **Test Coverage**: Comprehensive test suite included
+
+## 🎯 Use Cases
+
+### Open Source Projects
+- Maintain consistent commit style across contributors
+- Auto-generate changelogs for releases
+- Improve project documentation
+
+### Enterprise Teams
+- Enforce commit standards across teams
+- Learn from existing commit patterns
+- Generate release notes automatically
+
+### Individual Developers
+- Save time writing commit messages
+- Learn best practices for commits
+- Maintain clean git history
+
+## 💡 Tips
+
+1. **Use in CI/CD**: Integrate CommitGPT into your CI pipeline to validate commits
+2. **Pair with Git Hooks**: Install hooks to ensure consistent commit messages
+3. **Team Config**: Share configuration across your team for consistency
+4. **Custom Patterns**: Add custom issue patterns for your project management tool
+5. **Feedback Loop**: Let CommitGPT learn from your edits to improve suggestions
+
+## 🔗 Related Tools
+
+- [Commitizen](https://github.com/commitizen/cz-cli) - CLI tool for commits
+- [Husky](https://typicode.github.io/husky/) - Git hooks
+- [CommitLint](https://commitlint.js.org/) - Lint commit messages
+- [Standard Version](https://github.com/conventional-changelog/standard-version) - Versioning
+- [Release Please](https://github.com/googleapis/release-please) - Automated releases
