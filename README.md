@@ -1,5 +1,7 @@
 # CommitGPT 🤖
 
+[![CI](https://github.com/moggan1337/CommitGPT/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/CommitGPT/actions/workflows/ci.yml)
+
 > AI-Powered Intelligent Commit Message Generator with Semantic Analysis and Conventional Commits
 
 [![npm version](https://img.shields.io/npm/v/commmitgpt.svg)](https://www.npmjs.com/package/commmitgpt)
@@ -7,6 +9,24 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 ---
+
+## 🎬 Demo
+![CommitGPT Demo](demo.gif)
+
+*AI generates meaningful commit messages automatically*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Commit Analysis | ![analysis](screenshots/commit-analysis.png) |
+| Message Preview | ![preview](screenshots/message-preview.png) |
+| History View | ![history](screenshots/history.png) |
+
+## Visual Description
+Commit analysis shows files being scanned with diff highlights and semantic extraction. Message preview presents AI-generated commits with conventional format validation. History displays commit timeline with quality scores.
+
+---
+
 
 ## 📋 Table of Contents
 
